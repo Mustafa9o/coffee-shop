@@ -30,4 +30,4 @@ A responsive coffee shop website built with React that features:
 <img width="1579" height="781" alt="3" src="https://github.com/user-attachments/assets/c4abb111-2cbb-4c0d-80ae-854c322c6228" />
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-website.git
+   git clone https://github.com/Mustafa9o/coffee-shop-website.git
